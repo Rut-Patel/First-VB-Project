@@ -1,2 +1,2 @@
-# NETD-2202-ICE-03
+# VB-First-Project
 This is my first repository
